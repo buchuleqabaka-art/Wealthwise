@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_loginFragment_to_homeFragment" type="id" />
+    <item name="action_loginFragment_to_signUpFragment" type="id" />
+    <item name="action_loginFragment_to_forgotPasswordFragment" type="id" />
+    <item name="action_signUpFragment_to_loginFragment" type="id" />
+    <item name="action_welcomeFragment_to_homeFragment" type="id" />
+    <item name="action_loginFragment_to_welcomeFragment" type="id" />
+    <item name="llSummary" type="id" />
+    <item name="tvMinGoal" type="id" />
+    <item name="tvMaxGoal" type="id" />
+    <item name="scrollGoals" type="id" />
+    <item name="btnSetGoal" type="id" />
+    <item name="llGoals" type="id" />
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <style name="Theme.WealthWise" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_blue</item>
+        <item name="colorPrimaryVariant">@color/accent_blue_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_blue_light</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <!-- Transparent system bars for edge-to-edge. -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+
+        <!-- TextInputLayout outlined box defaults -->
+        <item name="textInputStyle">@style/WW.TextInputLayout</item>
+    </style>
+</resources>

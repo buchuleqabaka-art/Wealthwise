@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@android:drawable/ic_menu_today" />
+
+    <item
+        android:id="@+id/transactionListFragment"
+        android:title="History"
+        android:icon="@android:drawable/ic_menu_recent_history" />
+
+    <item
+        android:id="@+id/addTransactionFragment"
+        android:title="Add"
+        android:icon="@android:drawable/ic_input_add" />
+
+    <item
+        android:id="@+id/budgetFragment"
+        android:title="Budget"
+        android:icon="@android:drawable/ic_menu_agenda" />
+
+    <item
+        android:id="@+id/reportsFragment"
+        android:title="Reports"
+        android:icon="@android:drawable/ic_menu_report_image" />
+
+</menu>

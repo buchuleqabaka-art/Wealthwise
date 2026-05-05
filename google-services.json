@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721517853578",
+    "project_id": "wealthwise-6f0e8",
+    "storage_bucket": "wealthwise-6f0e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721517853578:android:f8d722f958f62a13162673",
+        "android_client_info": {
+          "package_name": "com.example.wealthwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcamR2TBrPoEeje-kUyASe2ieciRshDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
