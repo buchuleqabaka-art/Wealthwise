@@ -71,6 +71,6 @@ Wealthwise is a comprehensive Android application designed to help users take co
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Links
-Youtube: https://youtu.be/mrRCodcbPzs?feature=shared 
+Youtube: https://youtu.be/a35PwC8Zxfk?si=5_p5kzibHvuy2kva
 
 Github: https://github.com/buchuleqabaka-art/Wealthwise
